@@ -1,7 +1,12 @@
 # Introduce to Python Data Science
 
-Nama Program : Introduce to Python Data Science
+## Identity
 
-Nama saya : M. Zhafran Bahij
+Course : Introduce to Python Data Science
 
-Setiap folder mewakili setiap pertemuan
+Name : M. Zhafran Bahij
+
+## Assigment List
+
+1. Data Visualization
+2. Descriptive and Inferential Statistics
